@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color:#FF7900;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+
+.slider {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  
+}
+
+.slides {
+    display: flex;
+    width: 300%;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+    width: 100%;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.slide img {
+    width: 100%;
+    height: auto;
+    
+}
+
+.content{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 300px;
+}
+
+.content h2 {
+    font-size: 40px;
+   /*margin: 0 0 10px 0;*/
+   margin: 30px 0 10px 0;
+   margin-top: -300px;
+   
+ 
+}
+
+
+.content p {
+    margin: 0;
+}
+
+/* User defined image size example */
+.slide img {
+    border-radius: 20px 20px;
+    margin-top: 50px;
+    margin-left: 140px;
+    width: 1095px; /* Define the width of the image */
+    height: 500px; /* Define the height of the image */
+    object-fit: cover; /* Maintain aspect ratio */
+    /*margin: 0 auto; Center the image horizontally */
+}
+
+#categories {
+    padding: 20px;
+    text-align: center;
+}
+
+.category-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.category {
+    text-align: center;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.category img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+
+.category h3 {
+    margin-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.category:hover {
+    transform: scale(1.05);
+    opacity: 0.8;
+}
+
+.category:hover img {
+    transform: scale(1.1);
+}
+
+
