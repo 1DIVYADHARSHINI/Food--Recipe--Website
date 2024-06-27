@@ -29,4 +29,11 @@
         <li><strong>Freepik:</strong> Images are sourced from <a href="https://www.freepik.com">Freepik</a>.</li>
     </ul>
 <h2>Screenshort</h2>
-<img src="https://github.com/1DIVYADHARSHINI/Food--Recipe--Website/assets/162281554/3beb1ea9-661e-4499-966c-5c2435caf737" alt="Recipe Home Screenshot">
+<img src="https://github.com/1DIVYADHARSHINI/Food--Recipe--Website/assets/162281554/3beb1ea9-661e-4499-966c-5c2435caf737" alt="Recipe Home page">
+<img src="https://github.com/1DIVYADHARSHINI/Food--Recipe--Website/assets/162281554/42f69308-d9f8-48ec-af32-71c67fd9c831" alt="Recipe search page">
+<h2>Installtion</h2>
+```sh
+cd dillinger
+npm i
+node app
+```
