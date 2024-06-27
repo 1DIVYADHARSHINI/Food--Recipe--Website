@@ -31,9 +31,38 @@
 <h2>Screenshort</h2>
 <img src="https://github.com/1DIVYADHARSHINI/Food--Recipe--Website/assets/162281554/3beb1ea9-661e-4499-966c-5c2435caf737" alt="Recipe Home page">
 <img src="https://github.com/1DIVYADHARSHINI/Food--Recipe--Website/assets/162281554/42f69308-d9f8-48ec-af32-71c67fd9c831" alt="Recipe search page">
-<h2>Installtion</h2>
-```sh
-cd dillinger
-npm i
-node app
-```
+
+<h2>Contribute</h2>
+<ol>
+    <li><strong>Fork:</strong> 
+        <ul>
+            <li>Fork the repository on GitHub to create your own copy.</li>
+        </ul>
+    </li>
+    <li><strong>Clone:</strong> 
+        <ul>
+            <li>Clone the forked repository to your local machine.</li>
+        </ul>
+    </li>
+    <li><strong>Branch:</strong> 
+        <ul>
+            <li>Create a new branch for your changes.</li>
+        </ul>
+    </li>
+    <li><strong>Commit:</strong> 
+        <ul>
+            <li>Make your changes, commit them with a descriptive message.</li>
+        </ul>
+    </li>
+    <li><strong>Push:</strong> 
+        <ul>
+            <li>Push your changes to your fork on GitHub.</li>
+        </ul>
+    </li>
+    <li><strong>Pull Request:</strong> 
+        <ul>
+            <li>Submit a pull request with a summary of your changes.</li>
+        </ul>
+    </li>
+</ol>
+
