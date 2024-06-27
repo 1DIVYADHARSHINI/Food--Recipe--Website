@@ -11,4 +11,21 @@
         <li><strong>Submit Recipes:</strong> Create an account and log in to submit your own recipes and share them with others.</li>
         <li><strong>Save Favorites:</strong> Logged-in users can save their favorite recipes for quick access later.</li>
 </ol>
-
+<h2>Features</h2>
+  <ul>
+        <li><strong>Responsive Design:</strong> Ensures optimal viewing experience across all devices.</li>
+        <li><strong>Dynamic Content:</strong> Recipes and user interactions are dynamically loaded for a seamless experience.</li>
+        <li><strong>Search Functionality:</strong> Easily find recipes by name, ingredient, or keyword.</li>
+        <li><strong>User Authentication:</strong> Allows users to create accounts, log in, and manage their profiles.</li>
+        <li><strong>Recipe Submission:</strong> Users can submit their own recipes, complete with ingredients and instructions.</li>
+        <li><strong>Rating and Comments:</strong> Users can rate recipes and leave comments to provide feedback and suggestions.</li>
+        <li><strong>Favorite Recipes:</strong> Logged-in users can save recipes to their favorites list for quick access.</li>
+        <li><strong>Category Browsing:</strong> Recipes are categorized to help users find what they’re looking for more easily.</li>
+    </ul>
+<h2>Requirements</h2>
+    <ul>
+        <li><strong>Visual Studio:</strong> This project is developed using Visual Studio.</li>
+        <li><strong>TheMealDB API:</strong> Recipe data is sourced from <a href="https://www.themealdb.com/api.php">TheMealDB API</a>.</li>
+        <li><strong>Freepik:</strong> Images are sourced from <a href="https://www.freepik.com">Freepik</a>.</li>
+    </ul>
+<h2>Screenshort</h2>
