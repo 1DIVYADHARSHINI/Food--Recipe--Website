@@ -29,4 +29,4 @@
         <li><strong>Freepik:</strong> Images are sourced from <a href="https://www.freepik.com">Freepik</a>.</li>
     </ul>
 <h2>Screenshort</h2>
-![recipe home ](https://github.com/1DIVYADHARSHINI/Food--Recipe--Website/assets/162281554/3beb1ea9-661e-4499-966c-5c2435caf737)
+<img src="https://github.com/1DIVYADHARSHINI/Food--Recipe--Website/assets/162281554/3beb1ea9-661e-4499-966c-5c2435caf737" alt="Recipe Home Screenshot">
